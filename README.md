@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tripathi-rishabh">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripathi-rishabh/)</a> |
-  <a href="https://rishabhtripathiportfolio.vercel.app">Portfolio</a> |
-  <a href="https://instagram.com/rishitripathi_">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishitripathi_/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabhtripathiportfolio.vercel.app) | 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripathi-rishabh/) | 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishitripathi_/)
+  
 </a>
 </p>
 
