@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Rishabh Tripathi 👋</h1>
 
 <p align="center">
   I’m a full-stack developer who loves building apps with React Native, Node.js, Express and MongoDB. Always learning, creating, and open to new challenges! 🚀 
