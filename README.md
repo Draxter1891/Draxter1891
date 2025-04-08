@@ -1,6 +1,11 @@
+<div align="center" style="margin-bottom: 20px;">
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVuNjhkOWFobWVna3V2MWE1dXpqZjBiMmU4dDFlM3c1Y2RtenVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" />
 </p>
+  <p align="center">
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47cn2t4ddjoglrnf2ke1b8gwssoxwbmh6x7sccom16&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" />
+</p>
+</div>
 
 <h1 align="center">Hi there, I'm Rishabh Tripathi 👋</h1>
 
