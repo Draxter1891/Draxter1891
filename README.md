@@ -10,7 +10,9 @@
 </p>
 
 ## 🚀 Tech Stack
-<img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47cn2t4ddjoglrnf2ke1b8gwssoxwbmh6x7sccom16&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+<div align="center" style="margin-bottom:5px;">
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47cn2t4ddjoglrnf2ke1b8gwssoxwbmh6x7sccom16&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
+</div>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
