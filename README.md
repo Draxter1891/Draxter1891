@@ -30,7 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-000000?style=for-the-badge&logo=rapidapi&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-6C38A4?style=for-the-badge)
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-top: 20px;">
 <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47cn2t4ddjoglrnf2ke1b8gwssoxwbmh6x7sccom16&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" />
 </div>
 
