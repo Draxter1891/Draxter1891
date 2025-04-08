@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Tech Stack
-<div align="center" style="margin-bottom:5px;">
+
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,7 +30,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-000000?style=for-the-badge&logo=rapidapi&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-6C38A4?style=for-the-badge)
-</div>
 
 
 
