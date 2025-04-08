@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVuNjhkOWFobWVna3V2MWE1dXpqZjBiMmU4dDFlM3c1Y2RtenVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" />
+</p>
+
 <h1 align="center">Hi there, I'm Rishabh Tripathi 👋</h1>
 
 <p align="center">
