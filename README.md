@@ -35,5 +35,6 @@
 </div>
 
 ## 📫 How to reach me:
-- ✉️ Email: trishabh2001@gmail.com
-- 🔗 Website: [https://rishabhtripathiportfolio.vercel.app](https://rishabhtripathiportfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=square&logo=gmail&logoColor=white)](mailto:trishabh2001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=square&logo=vercel&logoColor=white)](https://rishabhtripathiportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-tripathi-2001/)
